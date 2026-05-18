@@ -5,6 +5,7 @@
  * Version: 1.1.0
  * Author: WebMode.lt
  * Author URI: https://webmode.lt
+ 
  */
 
 if (!defined('ABSPATH')) {
