@@ -3,7 +3,9 @@
  * Plugin Name: Kaina24 WooCommerce XML Feed
  * Description: Kas 12 val. sugeneruoja WooCommerce prekių XML failą, skirtą Kaina24.lt importui.
  * Version: 1.1.0
- * Author: Custom
+ * Author: WebMode.lt
+ * Author URI: https://webmode.lt
+ 
  */
 
 if (!defined('ABSPATH')) {
